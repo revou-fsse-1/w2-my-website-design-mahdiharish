@@ -12,3 +12,15 @@
 - Tom Clancy's Rainbow Six Siege's [website](https://www.ubisoft.com/en-gb/game/rainbow-six/siege)
 
 ## Screenshots
+
+### Miro
+
+![overall-design](/assets/ss-6.jpg)
+
+### Figma
+
+![homepage](/assets/ss-1.jpg)
+![about](/assets/ss-2.jpg)
+![footer](/assets/ss-3.jpg)
+![games](/assets/ss-4.jpg)
+![news](/assets/ss-5.jpg)
